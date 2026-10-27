@@ -9,5 +9,5 @@
 | git pull | `git pull --ff-only origin main` | Pobranie zmian bez tworzenia nieoczekiwanego merge commita.
 | git fetch | `git fetch origin` | Pobranie informacji o zmianach bez modyfikowania plików roboczych.
 | git branch | `git branch` | Wyświetlenie lokalnych gałęzi i oznaczenie aktywnej.
-| git switch | `git switch -c feature/nazwa` |Utworzenie gałęzi roboczej i przełączenie na nią.
+| git switch | `git switch -c feature/nazwa` | Utworzenie gałęzi roboczej i przełączenie na nią.
 | git log | `git log --oneline -5` | Skrócony podgląd pięciu ostatnich commitów.
